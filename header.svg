@@ -4,9 +4,14 @@
 
       <style>
         /* your CSS */
+        .hello{
+          color : red;
+        }
       </style>
 
-      <!-- your HTML -->
+      <div class='hello'>
+        hello
+      </div>
 
     </div>
   </foreignObject>
