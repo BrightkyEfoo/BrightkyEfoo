@@ -8,19 +8,19 @@
 
 
 
-- 🔭 I’m currently working on [dmservices website](dmservices.cm)
+- 🔭 I’m currently working on [Chillo tech](chillo.tech) website
 
-- 🌱 I’m currently learning **Dart, Flutter, Ionic & Android SDK**
+- 🌱 I’m currently learning **Kotlin & Android SDK**
 
-- 👯 I’m looking to collaborate on [LOCHE chat bot](loche.cm)
+- 👯 I’m looking to collaborate on any kotlin project, for mobile or web!
 
 - 🤝 I want do this [trello app](trello.com)
 
-- 💬 Ask me about **react, nodejs & gsap**
+- 💬 Ask me about **Js, Ts, React, NodeJs & Adonis**
 
-- 📫 How to reach me **brightefoo@gmail.com**
+- 📫 How to reach me **[brightefoo@gmail.com](mailto:brightefoo@mail.com)**
 
-- ⚡ Fun fact **I hate failure, and work. What do I want after all?**
+- ⚡ Fun fact **I sleep a 3AM more than 4days per week**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
